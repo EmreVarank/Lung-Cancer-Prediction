@@ -1,6 +1,6 @@
 # 🩺 Early Stage Lung Cancer Prediction Using Machine Learning
 
-This project aims to build reliable machine learning models for the early prediction of lung cancer based on clinical symptoms and demographic data. It also compares multiple algorithms to identify the most accurate and balanced classifier, especially minimizing **false negatives**, which are critical in healthcare. For detailed analysis and results, please see `Documents/VeriMadenciligiFinal.docx`.
+This project aims to build reliable machine learning models for the early prediction of lung cancer based on clinical symptoms and demographic data. It also compares multiple algorithms to identify the most accurate and balanced classifier, especially minimizing **false negatives**, which are critical in healthcare. For detailed analysis and results, please see `Documents/VeriMadenciligiFinal.docx`. For a video overview of the project: https://youtu.be/lhrUXwT5a5U?si=w0bwMZ2RvXimHGX7.
 
 ---
 
